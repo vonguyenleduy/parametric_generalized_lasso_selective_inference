@@ -57,7 +57,7 @@ To run the following commands, please first access to 'vanilla_lasso' directory.
 ```
 
 ---
-## Reference
+## References
 
 [1] V.N.L. Duy and I. Takeuchi. More Powerful Conditional Selective Inference for Generalized Lasso by Parametric Programming. arXiv preprint arXiv:2105.04920, 2021.
 
