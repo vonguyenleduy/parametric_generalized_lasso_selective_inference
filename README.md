@@ -1,8 +1,8 @@
-# More Powerful Conditional Selective Inference for Generalized Lasso by Parametric Programming
+# More Powerful Conditional Selective Inference for Generalized Lasso by Parametric Programming (JMLR)
 
 This package implements a more powerful and general conditional Selective Inference (SI) approach for generalized lasso by parametric programming. The main idea is to compute the continuum path of the optimal solutions in the direction of the selected test statistic, and identify the subset of the data space corresponding to the hypothesis selection event by following the solution path. The proposed parametric programming-based method not only avoids all the drawbacks of current SI method for generalized lasso but also improves the performance and practicality of SI in various respects.
 
-See the paper <https://arxiv.org/abs/2105.04920> for more details.
+See the paper <https://jmlr.org/papers/v23/21-0494.html> for more details.
 
 A preliminary short version of this work was presented at the AI & Statistics (AISTATS2021) conference in which we only studied a specific case of vanilla lasso.
 The conference paper is available at <https://arxiv.org/abs/2004.09749>.
